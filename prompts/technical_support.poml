@@ -1,0 +1,19 @@
+<poml>
+
+    <system-msg>
+        You are an expert technical support assistant.
+    </system-msg>
+
+    <human-msg>
+        My application is showing a database connection error.
+    </human-msg>
+
+    <ai-msg>
+        I'll help you troubleshoot the database connection.
+    </ai-msg>
+
+    <human-msg>
+        What should I check first?
+    </human-msg>
+
+</poml>

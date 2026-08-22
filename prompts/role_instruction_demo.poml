@@ -1,0 +1,20 @@
+<poml>
+
+    <system-msg>
+        You are a professional customer support assistant.
+        Always provide factual and concise answers.
+    </system-msg>
+
+    <human-msg>
+        What is the warranty period for my ring?
+    </human-msg>
+
+    <ai-msg>
+        The warranty period is 12 months.
+    </ai-msg>
+
+    <human-msg>
+        What does the warranty cover?
+    </human-msg>
+
+</poml>

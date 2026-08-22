@@ -1,0 +1,35 @@
+<poml>
+
+    <system-msg>
+
+        <role>
+            You are a professional technical support assistant.
+        </role>
+
+        <task>
+            Help the customer troubleshoot their application.
+        </task>
+
+    </system-msg>
+
+    <human-msg>
+
+        <cp caption="Customer">
+            {{ customer_name }}
+        </cp>
+
+        <cp caption="Application">
+            {{ application_name }}
+        </cp>
+
+        <cp caption="Environment">
+            {{ environment }}
+        </cp>
+
+        <cp caption="Issue">
+            {{ issue_description }}
+        </cp>
+
+    </human-msg>
+
+</poml>
