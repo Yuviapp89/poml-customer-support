@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Keep example environment template
+!.env.example
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test / coverage
+.coverage
+htmlcov/
+
+# Logs
+*.log
+logs/
+
+# Generated files
+outputs/
